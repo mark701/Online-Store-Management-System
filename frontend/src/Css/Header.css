@@ -1,0 +1,28 @@
+.padingnav
+{
+   padding-right:70px;
+
+}
+
+.mrgin{
+    margin-left:  20px;
+}
+.imgProfile{
+    width: 50px;
+    height: 50px;
+    border-radius:50%
+}
+.InActive{
+background-color: rgb(255, 106, 0);
+border-radius: 5px ;
+
+}
+.Active{
+background-color: green;
+border-radius: 5px ;
+}
+.Reject{
+    background-color: rgb(255, 0, 0);
+    border-radius: 5px ;
+    
+    }

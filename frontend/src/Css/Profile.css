@@ -1,0 +1,9 @@
+.divFrom{
+    margin: auto;
+    margin-top: 100px;
+    bottom: 100px;
+    width: 80%;
+    text-align: left;
+    padding: 20px;
+    border: 10px double rgb(76, 75, 110);
+}
